@@ -1,10 +1,7 @@
 # Sales-Dashboard-Excel
 # Data Used
-**Data**-HR Data with over 22000 rows from the year 2000 to 2020
-
-**Data Cleaning & Analysis**-MYSQL Jupyter Notebook
-
-**Data Visualization** -PowerBI
+**Data**- Sales Data from the year 2011 to 2014
+**Data Visualization** -EXCEL
 
 # Questions
 - What pattern do I want to show them overtime.
@@ -12,10 +9,13 @@
 - Which region and states have strongholds 
 - What are the category of products sales.
 
-KPIs 
+**KPIs**
 ✔️Total Revenue 
+
 ✔️ Total Quantity 
+
 ✔️ Orders
+
 ✔️Average Discount 
 
 # Summary of Findings
