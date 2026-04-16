@@ -11,6 +11,7 @@
 - What are the category of products sales.
 
 **KPIs**
+
 ✔️Total Revenue 
 
 ✔️ Total Quantity 
